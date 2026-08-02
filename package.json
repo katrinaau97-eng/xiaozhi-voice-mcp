@@ -1,7 +1,8 @@
 {
   "name": "xiaozhi-voice-station",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "private": true,
+  "type": "module", 
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -13,8 +14,5 @@
     "next": "14.1.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
-  },
-  "engines": {
-    "node": ">=20.0.0"
   }
 }
